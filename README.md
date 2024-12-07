@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khaled
 - 👀 I’m interested in full stack development, artificial inteligence and machine learning
-- 🌱 I’m currently learning computer science at the Technion
+- 🌱 I’m currently learning computer science at the Technion - IIT
 
 <!---
 khaled-sawaid/khaled-sawaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
